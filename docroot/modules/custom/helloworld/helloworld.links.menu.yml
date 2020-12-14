@@ -1,0 +1,8 @@
+
+# Hello Config menu items definition
+entity.hello_config_entity.collection:
+  title: 'Hello Config'
+  route_name: entity.hello_config_entity.collection
+  description: 'List Hello Config (bundles)'
+  parent: system.admin_structure
+  weight: 99

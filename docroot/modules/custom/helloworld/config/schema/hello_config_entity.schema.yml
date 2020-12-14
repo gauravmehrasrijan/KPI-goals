@@ -1,0 +1,15 @@
+helloworld.hello_config_entity.*:
+  type: config_entity
+  label: 'Hello Config config'
+  mapping:
+    id:
+      type: string
+      label: 'ID'
+    label:
+      type: label
+      label: 'Label'
+    rotate:
+      type: string
+      label: 'Rotate'
+    uuid:
+      type: string

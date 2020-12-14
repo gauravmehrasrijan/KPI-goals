@@ -1,0 +1,5 @@
+entity.hello_config_entity.add_form:
+  route_name: entity.hello_config_entity.add_form
+  title: 'Add Hello Config'
+  appears_on:
+    - entity.hello_config_entity.collection
